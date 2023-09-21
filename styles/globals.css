@@ -3,26 +3,44 @@ header{
   height: 140px;
   border: 2px dashed black;
   background-color: aqua;
-  margin: 20px;
-  margin-left: auto;
-  margin-left: auto;
+  margin: auto;
+  margin-bottom: 10px;
+  color: white;
+ 
+ 
 
 }
 main{
-  width: 690px;
+  width: 980px;
   height: 450px;
-  background-color: aqua;
-  margin-right: auto;
-  margin-top: auto;
+  color: white;
+  margin: auto;
   border: 2px red dashed;
 
+}
+aside{
+  width: 270px;
+  height: 450px;
+  background-color: red;
+  border: 2px black dashed;
+  float: left;
+  margin-right: 10px;
+  color: white;
+}
+section{
+  width: 690px;
+  height: 450px;
+  background-color: blue;
+  border: 2px dashed palevioletred;
+  float: left;
+  color: white;
 }
 footer{
   width: 980px;
   height: 70px;
   background-color: aqua;
-  margin-right: auto;
-  margin-top: auto;
+  margin: auto;
   border: 2px green dashed;
   margin-top: 20px;
+  color: white;
 }

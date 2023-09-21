@@ -11,13 +11,15 @@ import styles from '../styles/Home.module.css'
         <link rel="icon" href='favicon.ico' />
       </Head>
       <header>
-
+      Header Component
       </header>
       <main>
-
+        <aside>Aside Component</aside>
+        <section>Section Component</section>
       </main>
       
-    <footer>
+      <footer>
+      Footer Component
       </footer>
     </>
   )
